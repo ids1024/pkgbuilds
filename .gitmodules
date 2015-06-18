@@ -1,0 +1,60 @@
+[submodule "ariamaestosa"]
+	path = ariamaestosa
+	url = ssh+git://aur@aur4.archlinux.org:22/ariamaestosa.git/
+[submodule "bas"]
+	path = bas
+	url = ssh+git://aur@aur4.archlinux.org:22/bas.git/
+[submodule "communitytags-git"]
+	path = communitytags-git
+	url = ssh+git://aur@aur4.archlinux.org:22/communitytags-git.git/
+[submodule "corewars-gtk2"]
+	path = corewars-gtk2
+	url = ssh+git://aur@aur4.archlinux.org:22/corewars-gtk2.git/
+[submodule "dantalian"]
+	path = dantalian
+	url = ssh+git://aur@aur4.archlinux.org:22/dantalian.git/
+[submodule "dsmidiwifi"]
+	path = dsmidiwifi
+	url = ssh+git://aur@aur4.archlinux.org:22/dsmidiwifi.git/
+[submodule "dsmidiwifi-cli"]
+	path = dsmidiwifi-cli
+	url = ssh+git://aur@aur4.archlinux.org:22/dsmidiwifi-cli.git/
+[submodule "fala"]
+	path = fala
+	url = ssh+git://aur@aur4.archlinux.org:22/fala.git/
+[submodule "genchemlab"]
+	path = genchemlab
+	url = ssh+git://aur@aur4.archlinux.org:22/genchemlab.git/
+[submodule "gfa"]
+	path = gfa
+	url = ssh+git://aur@aur4.archlinux.org:22/gfa.git/
+[submodule "git-ftp-git"]
+	path = git-ftp-git
+	url = ssh+git://aur@aur4.archlinux.org:22/git-ftp-git.git/
+[submodule "ifhp"]
+	path = ifhp
+	url = ssh+git://aur@aur4.archlinux.org:22/ifhp.git/
+[submodule "lprngtool"]
+	path = lprngtool
+	url = ssh+git://aur@aur4.archlinux.org:22/lprngtool.git/
+[submodule "naev-git"]
+	path = naev-git
+	url = ssh+git://aur@aur4.archlinux.org:22/naev-git.git/
+[submodule "pianod"]
+	path = pianod
+	url = ssh+git://aur@aur4.archlinux.org:22/pianod.git/
+[submodule "python-pympv-git"]
+	path = python-pympv-git
+	url = ssh+git://aur@aur4.archlinux.org:22/python-pympv-git.git/
+[submodule "warzone2100-git"]
+	path = warzone2100-git
+	url = ssh+git://aur@aur4.archlinux.org:22/warzone2100-git.git/
+[submodule "wikicurses"]
+	path = wikicurses
+	url = ssh+git://aur@aur4.archlinux.org:22/wikicurses.git/
+[submodule "wikicurses-git"]
+	path = wikicurses-git
+	url = ssh+git://aur@aur4.archlinux.org:22/wikicurses-git.git/
+[submodule "zxtune-git"]
+	path = zxtune-git
+	url = ssh+git://aur@aur4.archlinux.org:22/zxtune-git.git/
